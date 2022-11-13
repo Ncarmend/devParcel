@@ -1,0 +1,5 @@
+node_module
+package-lok.json
+dist
+.parcel-cache
+.env
